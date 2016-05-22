@@ -8,4 +8,5 @@ TODO:
 
 How to handle cancellation points?
 
-Motivated by discussions [here](https://lwn.net/Articles/655034/).
+Motivated by discussions [here](https://lwn.net/Articles/655034/) and
+[here](https://lwn.net/Articles/655028/).
